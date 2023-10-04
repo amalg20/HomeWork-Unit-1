@@ -33,6 +33,13 @@ private int intelligence – random (1-50)***
 •	Variable called mana of data type int, random between 10-50, representing a resource the wizard consumes to cast spells 
 •	Variable called intelligence of data type int, random between 1-50, measuring how strong the wizard spells 
 A constructor that takes name, hp, mana and intelligence also we did Getter and Setter 
+
+
+### Simple drawn to represent the Homework
+
+[HW 1 - IronBattle.pdf](https://github.com/amalg20/HomeWork-Unit-1/files/12803432/HW.1.-.IronBattle.pdf)
+
+
 A public function that overloads attack() implemented in the Attacker interface, that will take a character as a parameter and reduce that character’s health based on the intelligence of the spell
 1- Fireball it will create when Damage equals intelligence and then each hit will decrease mana -5 
 2- Weak it will create when Damage equals 2 , and then each hit will recover mana +1

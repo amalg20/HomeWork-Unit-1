@@ -55,5 +55,5 @@ case(4) - game ends
 
 ### Simple drawn to represent the Homework
 
-[HW 1 - IronBattle.pdf](https://github.com/amalg20/HomeWork-Unit-1/files/12803432/HW.1.-.IronBattle.pdf)
+![HW 1 - IronBattle_page-0001](https://github.com/amalg20/HomeWork-Unit-1/assets/145042005/32dd8107-a31b-4dac-90e9-8fa9e547d84c)
 

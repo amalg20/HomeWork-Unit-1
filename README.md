@@ -35,11 +35,6 @@ private int intelligence – random (1-50)***
 A constructor that takes name, hp, mana and intelligence also we did Getter and Setter 
 
 
-### Simple drawn to represent the Homework
-
-[HW 1 - IronBattle.pdf](https://github.com/amalg20/HomeWork-Unit-1/files/12803432/HW.1.-.IronBattle.pdf)
-
-
 A public function that overloads attack() implemented in the Attacker interface, that will take a character as a parameter and reduce that character’s health based on the intelligence of the spell
 1- Fireball it will create when Damage equals intelligence and then each hit will decrease mana -5 
 2- Weak it will create when Damage equals 2 , and then each hit will recover mana +1
@@ -55,4 +50,10 @@ case (2)  we create the  Wizard we ask from user to Enter the number of the case
 
 case (3) start battle we ask from user to Enter the number of the case 3 In the third step, the game will start and emerge as the winner at this point ,We  Use the **speed** function to reduce the number of data appearances in case 3 the steps will begin to decrease in seconds for our use of the millisecond function. Then you will start choosing the winner according to the requirements 
 case(4) - game ends 
+
+
+
+### Simple drawn to represent the Homework
+
+[HW 1 - IronBattle.pdf](https://github.com/amalg20/HomeWork-Unit-1/files/12803432/HW.1.-.IronBattle.pdf)
 
